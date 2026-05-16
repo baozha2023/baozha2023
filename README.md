@@ -25,8 +25,8 @@
       </ul>
     </td>
     <td width="35%" align="center" valign="center">
-      <!-- 使用 jsdelivr CDN 解决国内 raw.githubusercontent 无法访问的问题 -->
-      <img src="https://cdn.jsdelivr.net/gh/ABSphreak/ABSphreak@master/gifs/Hi.gif" width="180px" />
+      <!-- 替换为真正的“沉浸式敲代码”动态插画 -->
+      <img src="https://cdn.jsdelivr.net/gh/TheDudeThatCode/TheDudeThatCode/Assets/Developer.gif" width="200px" />
     </td>
   </tr>
 </table>
@@ -58,7 +58,7 @@
 </details>
 
 <details>
-  <summary><b>🏢 消防检测系统 (全生命周期管理)</b></summary>
+  <summary><b>🏢 消防检测系统 - 全生命周期管理</b></summary>
   <br>
   <ul>
     <li><b>技术栈：</b> Java, Spring Boot, MySQL, 自动化文档引擎</li>
@@ -79,14 +79,25 @@
 
 <br><br>
 
-<!-- LeetCode 算法动态模块 -->
-<h3 align="center">🧠 算法修炼</h3>
-<p align="center">
-  <a href="https://leetcode.cn/u/ren-zhen-xiang-de-ming-zi/">
-    <!-- 修复了用户名，并增加了 site=cn 参数以获取力扣国服数据 -->
-    <img src="https://leetcard.jacoblin.cool/ren-zhen-xiang-de-ming-zi?site=cn&theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
-  </a>
-</p>
+<!-- 算法与活跃度模块 (左右分栏布局，完美衔接) -->
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h3>🧠 算法修炼</h3>
+      <!-- 替换为高颜值的力扣数据统计卡片，不再使用拥挤的热力图 -->
+      <img src="https://leetcode-stats.vercel.app/api?username=ren-zhen-xiang-de-ming-zi&cn=true&theme=tokyonight&hide_border=true" width="90%" alt="LeetCode Stats" />
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3>🐍 代码活跃度</h3>
+      <!-- 恢复了 GitHub 贪吃蛇热力图 -->
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/baozha2023/baozha2023/output/github-contribution-grid-snake-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/baozha2023/baozha2023/output/github-contribution-grid-snake.svg">
+        <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/baozha2023/baozha2023/output/github-contribution-grid-snake.svg" width="100%">
+      </picture>
+    </td>
+  </tr>
+</table>
 
 <br><br>
 
