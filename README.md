@@ -8,7 +8,7 @@
   </a>
 </p>
 
-<br/>
+<br><br>
 
 <!-- 核心档案模块 -->
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
@@ -25,14 +25,13 @@
       </ul>
     </td>
     <td width="35%" align="center" valign="center">
-      <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="180px" />
+      <!-- 使用 jsdelivr CDN 解决国内 raw.githubusercontent 无法访问的问题 -->
+      <img src="https://cdn.jsdelivr.net/gh/ABSphreak/ABSphreak@master/gifs/Hi.gif" width="180px" />
     </td>
   </tr>
 </table>
 
-<br/>
-<hr/>
-<br/>
+<br><br>
 
 <!-- 技术军火库模块 -->
 <h3 align="center">🛠️ 技术军火库</h3>
@@ -42,17 +41,15 @@
   </a>
 </p>
 
-<br/>
-<hr/>
-<br/>
+<br><br>
 
 <!-- 核心实战模块 -->
 <h3 align="center">🚀 核心实战</h3>
-<br/>
+<br>
 
 <details>
   <summary><b>⚡ 温州市电网风灾检测及评估系统</b></summary>
-  <br/>
+  <br>
   <ul>
     <li><b>技术栈：</b> Spring Boot, MQTT, Redis, Vue.js, ECharts</li>
     <li><b>架构与并发：</b> 独立主导系统架构设计与全栈开发。针对海量物联网设备，攻克了基于 MQTT 协议与 Redis 缓存的高并发数据采集难题，保障了数据吞吐的实时性与稳定性。</li>
@@ -62,7 +59,7 @@
 
 <details>
   <summary><b>🏢 消防检测系统 (全生命周期管理)</b></summary>
-  <br/>
+  <br>
   <ul>
     <li><b>技术栈：</b> Java, Spring Boot, MySQL, 自动化文档引擎</li>
     <li><b>业务架构：</b> 深度参与系统全生命周期开发。针对消防检测流程繁琐、状态易错乱的问题，设计了基于“状态机”驱动的业务架构，使检测流程流转更加清晰可控。</li>
@@ -72,7 +69,7 @@
 
 <details>
   <summary><b>🚗 智橙动力微服务后管系统</b></summary>
-  <br/>
+  <br>
   <ul>
     <li><b>技术栈：</b> Spring Cloud Alibaba, Nacos, MyBatis-Plus, Vue3</li>
     <li><b>微服务实践：</b> 基于 Spring Cloud Alibaba 微服务生态，参与构建高可用的车联网后台管理系统。</li>
@@ -80,21 +77,18 @@
   </ul>
 </details>
 
-<br/>
-<hr/>
-<br/>
+<br><br>
 
 <!-- LeetCode 算法动态模块 -->
 <h3 align="center">🧠 算法修炼</h3>
 <p align="center">
-  <!-- 替换 user= 后面的名字为你真实的 LeetCode 用户名 -->
   <a href="https://leetcode.cn/u/ren-zhen-xiang-de-ming-zi/">
-    <img src="https://leetcard.jacoblin.cool/baozha2023?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+    <!-- 修复了用户名，并增加了 site=cn 参数以获取力扣国服数据 -->
+    <img src="https://leetcard.jacoblin.cool/ren-zhen-xiang-de-ming-zi?site=cn&theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
   </a>
 </p>
 
-<br/>
-
+<br><br>
 
 <!-- 动态波浪尾部收尾 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
