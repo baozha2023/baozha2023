@@ -30,7 +30,7 @@
 
 <br><br>
 
-<!-- 技术军火库模块 (按后端/数据库与前端/工具分行展示) -->
+<!-- 技术军火库模块 -->
 <h3 align="center">🛠️ 技术军火库</h3>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -78,11 +78,11 @@
 
 <br><br>
 
-<!-- 算法修炼模块 -->
+<!-- 算法修炼模块 (已加入热力图参数) -->
 <h3 align="center">🧠 算法修炼</h3>
 <p align="center">
-  <!-- 更换为最稳定的国服专属接口，去除拥挤的热力图，只保留纯净数据卡片 -->
-  <img src="https://leetcard.jacoblin.cool/ren-zhen-xiang-de-ming-zi?site=cn&theme=dark&font=Fira%20Code" width="60%" alt="LeetCode Stats" />
+  <!-- 增加了 ext=heatmap 参数，激活力扣提交热力图 -->
+  <img src="https://leetcard.jacoblin.cool/ren-zhen-xiang-de-ming-zi?site=cn&theme=dark&font=Fira%20Code&ext=heatmap" width="70%" alt="LeetCode Stats & Heatmap" />
 </p>
 
 <br><br>
