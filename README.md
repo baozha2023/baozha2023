@@ -8,10 +8,10 @@
 
 <br><br>
 
-<!-- 核心档案模块 -->
+<!-- 核心档案模块 (优化了左右列宽比例为 80:20，确保单行展示) -->
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
-    <td width="65%" valign="top">
+    <td width="80%" valign="top">
       <h3>👨‍💻 核心档案</h3>
       <ul>
         <li>🎓 <b>坐标:</b> 北方工业大学 CS 创新实验班 (大三在读)</li>
@@ -22,8 +22,9 @@
         <li>📫 <b>信箱:</b> <code>a17238716972022@163.com</code></li>
       </ul>
     </td>
-    <td width="35%" align="center" valign="center">
-      <img src="https://cdn.jsdelivr.net/gh/TheDudeThatCode/TheDudeThatCode/Assets/Developer.gif" width="200px" />
+    <td width="20%" align="center" valign="center">
+      <!-- 适当缩小图片尺寸，为左侧文字让出空间 -->
+      <img src="https://cdn.jsdelivr.net/gh/TheDudeThatCode/TheDudeThatCode/Assets/Developer.gif" width="150px" />
     </td>
   </tr>
 </table>
@@ -42,27 +43,26 @@
 
 <br><br>
 
-<!-- 核心实战模块 -->
+<!-- 核心实战模块 (已根据简历深度重构) -->
 <h3 align="center">🚀 核心实战</h3>
 <br>
 
 <details>
-  <summary><b>⚡ 温州市电网风灾检测及评估系统</b></summary>
+  <summary><b>⚡ 温州市电网沿海骨干输电线路风灾检测及评估系统</b></summary>
   <br>
   <ul>
-    <li><b>技术栈：</b> Spring Boot, MQTT, Redis, Vue.js, ECharts</li>
-    <li><b>架构与并发：</b> 独立主导系统架构设计与全栈开发。针对海量物联网设备，攻克了基于 MQTT 协议与 Redis 缓存的高并发数据采集难题，保障了数据吞吐的实时性与稳定性。</li>
-    <li><b>算法落地：</b> 引入并工程化落地 FFT（快速傅里叶变换）算法，对传感器采集的复杂波形数据进行频域分析，精准评估风灾对电网铁塔的结构影响。</li>
+    <li><b>底层架构：</b> 自主攻克基于 MQTT 协议与 Redis 的高并发数据采集与鉴权瓶颈，保障海量传感器数据的实时吞吐。</li>
+    <li><b>算法落地：</b> 创新性引入去漂移算法与 FFT（快速傅里叶变换）技术，精准处理并分析传感器振动频域数据。</li>
+    <li><b>业务闭环：</b> 结合 Quartz 动态调度、Apache POI 与 ECharts，实现从力学评估报告自动生成到设备状态全局可视化的完整闭环。</li>
   </ul>
 </details>
 
 <details>
-  <summary><b>🏢 消防检测系统 - 全生命周期管理</b></summary>
+  <summary><b>🏢 消防检测系统 (全生命周期管理)</b></summary>
   <br>
   <ul>
-    <li><b>技术栈：</b> Java, Spring Boot, MySQL, 自动化文档引擎</li>
-    <li><b>业务架构：</b> 深度参与系统全生命周期开发。针对消防检测流程繁琐、状态易错乱的问题，设计了基于“状态机”驱动的业务架构，使检测流程流转更加清晰可控。</li>
-    <li><b>效能优化：</b> 独立研发了复杂的检测报告自动化导出模块，支持动态模板渲染与海量数据填充，将企业单次交付报告的时间缩短了 80% 以上。</li>
+    <li><b>业务架构：</b> 独立负责系统全生命周期研发。设计状态驱动架构与 SQL 分阶段筛选机制，解决多环节数据隔离与复杂流程流转（如挂单、回退）难题。</li>
+    <li><b>效能优化：</b> 独立研发文档自动化导出模块，实现合同、公示牌及电检报告模板的一键生成，大幅提升企业业务流转与交付效率。</li>
   </ul>
 </details>
 
@@ -70,18 +70,16 @@
   <summary><b>🚗 智橙动力微服务后管系统</b></summary>
   <br>
   <ul>
-    <li><b>技术栈：</b> Spring Cloud Alibaba, Nacos, MyBatis-Plus, Vue3</li>
-    <li><b>微服务实践：</b> 基于 Spring Cloud Alibaba 微服务生态，参与构建高可用的车联网后台管理系统。</li>
-    <li><b>核心模块：</b> 负责核心的 OTA（空中下载技术）升级模块，设计并实现了复杂的“车辆-设备-固件”多对多关联数据模型，保障了车载设备固件升级的事务一致性与分发效率。</li>
+    <li><b>微服务治理：</b> 独立完成设备型号管理与 OTA 升级微服务开发。构建复杂关联数据模型，基于 OpenFeign 实现高效通信，保障经销商数据一致性。</li>
+    <li><b>核心模块：</b> 深度主导 OTA 模块，实现多设备固件包上传、版本控制及日志统计，助力业务端精准追踪 App 用户固件下载量与更新转化率。</li>
   </ul>
 </details>
 
 <br><br>
 
-<!-- 算法修炼模块 (已加入热力图参数) -->
+<!-- 算法修炼模块 -->
 <h3 align="center">🧠 算法修炼</h3>
 <p align="center">
-  <!-- 增加了 ext=heatmap 参数，激活力扣提交热力图 -->
   <img src="https://leetcard.jacoblin.cool/ren-zhen-xiang-de-ming-zi?site=cn&theme=dark&font=Fira%20Code&ext=heatmap" width="70%" alt="LeetCode Stats & Heatmap" />
 </p>
 
