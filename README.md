@@ -1,63 +1,108 @@
-<h1 align="center">Hi there, I'm 张枭杰 👋</h1>
-<h3 align="center">🏃‍♂️ 长跑爱好者 | ☕ Java 全栈开发 | 🤖 AI 效能探索者</h3>
+<!-- 动态波浪头部 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello,%20I'm%20Zhang%20Xiaojie&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Java%20Full-Stack%20%7C%20AI%20Explorer%20%7C%20Marathon%20Runner&descAlignY=60&descAlign=50" width="100%"/>
 
+<!-- 终端风格动态打字机 -->
 <p align="center">
   <a href="https://github.com/baozha2023">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF5&center=true&vCenter=true&width=600&lines=北方工业大学+CS+创新实验班;Java+微服务架构+%26+全栈开发;拥抱+AI+工作流，探索效能边界;用代码构建系统，用长跑磨砺心智" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00FF99&background=0D1117&center=true&vCenter=true&width=800&height=50&lines=>_+$+cd+/home/zhangxiaojie;>_+$+cat+about.txt;>_+Focus+on+Java+Microservices+%26+AI+Workflows;>_+Keep+Running,+Keep+Coding!" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
-### 🔭 关于我 (About Me)
-
-- 🎓 目前就读于 **北方工业大学** 计算机科学与技术专业（大三在读）。
-- 💻 专注于 **Java 微服务架构** 与 **前后端全栈开发**，在 MQTT 高并发采集、JVM 调优及复杂业务架构设计上有丰富的实战经验。
-- 🧠 深度拥抱 AI，熟练运用 Claude Code、LangChain 与 ComfyUI 赋能开发，致力于用技术提升行业效率。
-- 🏆 **竞赛荣誉**：CCF CSP 280分 (Top 6.29%)、蓝桥杯国赛二等奖、GPLT 天梯赛团队二等奖等。
-- ⚡ **生活态度**：保持长跑习惯，赋予了我极强的抗压能力与自律精神。
-- 📫 顺着网线联系我：`a17238716972022@163.com`
-
----
-
-### 🛠️ 技术栈 (Tech Stack)
-
-**Backend & Architecture**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-**Frontend & Visualization**  
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![ECharts](https://img.shields.io/badge/Apache_ECharts-AA344D?style=for-the-badge&logo=apacheecharts&logoColor=white)
-
-**AI & Tools**  
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<!-- 左右分栏布局：动态 GIF + 个人介绍 -->
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td width="65%" valign="top">
+      <h3>👨‍💻 核心档案 (Profile)</h3>
+      <ul>
+        <li>🎓 <b>坐标:</b> 北方工业大学 CS 创新实验班 (大三)</li>
+        <li>💻 <b>引擎:</b> Java 微服务架构 / 前后端全栈 / 高并发处理</li>
+        <li>🤖 <b>外挂:</b> Claude / LangChain / ComfyUI 深度赋能开发</li>
+        <li>🏃‍♂️ <b>日常:</b> 马拉松跑者，用脚步丈量世界，用代码重构现实</li>
+        <li>📫 <b>信箱:</b> <code>a17238716972022@163.com</code></li>
+      </ul>
+    </td>
+    <td width="35%" align="center" valign="center">
+      <!-- 动态敲代码的小人 GIF -->
+      <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="180px" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🚀 核心实战 (Featured Experience)
-
-- ⚡ **温州市电网风灾检测及评估系统** | 独立主导架构与全栈开发，攻克 MQTT+Redis 高并发采集，引入 FFT 算法处理传感器数据。
-- 🏢 **消防检测系统 (全生命周期)** | 设计状态驱动业务架构，研发文档自动化导出模块，大幅提升企业交付效率。
-- 🚗 **智橙动力微服务后管系统** | 基于 Spring Cloud Alibaba 构建，实现 OTA 升级模块与复杂设备关联数据模型。
+<!-- 炫酷的 Skill-icons 阵列 (比传统徽章更好看，自带玻璃拟物感) -->
+<h3 align="center">🛠️ 技术军火库 (Tech Arsenal)</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,vue,js,html,css,git,github,docker,linux,idea,vscode&theme=dark&perline=7" />
+  </a>
+</p>
 
 ---
 
-### 📊 GitHub 动态 (Stats & Activity)
+<!-- 游戏化动态奖杯系统 -->
+<h3 align="center">🏆 GitHub 成就 (Trophies)</h3>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=baozha2023&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  </a>
+</p>
+
+---
+
+<!-- 交互式折叠面板展示项目 (告别枯燥的列表) -->
+<h3 align="center">🚀 核心实战 (Featured Projects)</h3>
+
+<details>
+  <summary><b>⚡ 温州市电网风灾检测及评估系统 (点击展开)</b></summary>
+  <br/>
+  <blockquote>
+    独立主导架构与全栈开发，攻克 <b>MQTT + Redis 高并发采集</b>，引入 <b>FFT 算法</b>处理传感器数据，保障电网安全运行。
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>🏢 消防检测系统 - 全生命周期管理 (点击展开)</b></summary>
+  <br/>
+  <blockquote>
+    设计状态驱动业务架构，研发文档自动化导出模块，大幅提升企业交付效率与数据流转准确率。
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>🚗 智橙动力微服务后管系统 (点击展开)</b></summary>
+  <br/>
+  <blockquote>
+    基于 <b>Spring Cloud Alibaba</b> 构建，实现 OTA 升级模块与复杂设备关联数据模型，支撑车联网后台高效运转。
+  </blockquote>
+</details>
+
+<br/>
+
+---
+
+<!-- 统计卡片与贪吃蛇 (去除了边框，融入暗黑/极客主题) -->
+<h3 align="center">📊 数据面板 (Metrics & Activity)</h3>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=baozha2023&theme=radical&locale=zh_CN" alt="GitHub Streak" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=baozha2023&theme=radical" alt="Top Languages" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=baozha2023&theme=tokyonight&locale=zh_CN&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baozha2023&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
+  <b>🐍 吞噬代码的贪吃蛇 (Contribution Snake)</b><br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/baozha2023/baozha2023/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/baozha2023/baozha2023/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/baozha2023/baozha2023/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
 </p>
+
+<!-- 动态访客徽章 -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=baozha2023&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Count" />
+</p>
+
+<!-- 动态波浪
