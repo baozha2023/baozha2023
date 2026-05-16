@@ -25,7 +25,6 @@
       </ul>
     </td>
     <td width="35%" align="center" valign="center">
-      <!-- 替换为真正的“沉浸式敲代码”动态插画 -->
       <img src="https://cdn.jsdelivr.net/gh/TheDudeThatCode/TheDudeThatCode/Assets/Developer.gif" width="200px" />
     </td>
   </tr>
@@ -33,11 +32,13 @@
 
 <br><br>
 
-<!-- 技术军火库模块 -->
+<!-- 技术军火库模块 (优化布局：按后端/数据库与前端/工具分行展示) -->
 <h3 align="center">🛠️ 技术军火库</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,vue,js,html,css,git,github,idea&theme=dark&perline=7" />
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,linux,docker&theme=dark" />
+    <br><br>
+    <img src="https://skillicons.dev/icons?i=vue,js,html,css,git,github,idea&theme=dark" />
   </a>
 </p>
 
@@ -79,25 +80,24 @@
 
 <br><br>
 
-<!-- 算法与活跃度模块 (左右分栏布局，完美衔接) -->
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <h3>🧠 算法修炼</h3>
-      <!-- 替换为高颜值的力扣数据统计卡片，不再使用拥挤的热力图 -->
-      <img src="https://leetcode-stats.vercel.app/api?username=ren-zhen-xiang-de-ming-zi&cn=true&theme=tokyonight&hide_border=true" width="90%" alt="LeetCode Stats" />
-    </td>
-    <td width="50%" valign="top" align="center">
-      <h3>🐍 代码活跃度</h3>
-      <!-- 恢复了 GitHub 贪吃蛇热力图 -->
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/baozha2023/baozha2023/output/github-contribution-grid-snake-dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/baozha2023/baozha2023/output/github-contribution-grid-snake.svg">
-        <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/baozha2023/baozha2023/output/github-contribution-grid-snake.svg" width="100%">
-      </picture>
-    </td>
-  </tr>
-</table>
+<!-- 算法修炼模块 (垂直居中布局) -->
+<h3 align="center">🧠 算法修炼</h3>
+<p align="center">
+  <!-- 修复了 theme 参数，使用原生支持的 dark 主题 -->
+  <img src="https://leetcode-stats.vercel.app/api?username=ren-zhen-xiang-de-ming-zi&cn=true&theme=dark&hide_border=true" width="60%" alt="LeetCode Stats" />
+</p>
+
+<br><br>
+
+<!-- 代码活跃度模块 (垂直居中布局，贪吃蛇铺满) -->
+<h3 align="center">🐍 代码活跃度</h3>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/baozha2023/baozha2023/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/baozha2023/baozha2023/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/baozha2023/baozha2023/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</p>
 
 <br><br>
 
