@@ -17,9 +17,9 @@ jobs:
     timeout-minutes: 10
     
     steps:
-      # 生成吃豆人 SVG 动画
+      # 生成吃豆人 SVG 动画 
       - name: Generate Pac-Man SVG
-        uses: abozanona/pacman-contribution-graph@v1
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
           # 输出文件路径
