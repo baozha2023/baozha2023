@@ -2,7 +2,7 @@
 <h3 align="center">🏃‍♂️ 长跑爱好者 | ☕ Java 全栈开发 | 🤖 AI 效能探索者</h3>
 
 <p align="center">
-  <a href="https://github.com/你的GitHub用户名">
+  <a href="https://github.com/baozha2023">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF5&center=true&vCenter=true&width=600&lines=北方工业大学+CS+创新实验班;Java+微服务架构+%26+全栈开发;拥抱+AI+工作流，探索效能边界;用代码构建系统，用长跑磨砺心智" alt="Typing SVG" />
   </a>
 </p>
