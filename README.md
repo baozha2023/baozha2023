@@ -25,4 +25,31 @@
 **Backend & Architecture**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring Cloud](https://img.shields.io/badge/Spring_
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**Frontend & Visualization**  
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![ECharts](https://img.shields.io/badge/Apache_ECharts-AA344D?style=for-the-badge&logo=apacheecharts&logoColor=white)
+
+**AI & Tools**  
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 🚀 核心实战 (Featured Experience)
+
+- ⚡ **温州市电网风灾检测及评估系统** | 独立主导架构与全栈开发，攻克 MQTT+Redis 高并发采集，引入 FFT 算法处理传感器数据。
+- 🏢 **消防检测系统 (全生命周期)** | 设计状态驱动业务架构，研发文档自动化导出模块，大幅提升企业交付效率。
+- 🚗 **智橙动力微服务后管系统** | 基于 Spring Cloud Alibaba 构建，实现 OTA 升级模块与复杂设备关联数据模型。
+
+---
+
+### 📊 GitHub 动态 (Stats)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=baozha2023&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baozha2023&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+</p>
