@@ -38,7 +38,7 @@
 <h3 align="center">🛠️ 技术军火库</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,vue,js,html,css,git,github,docker,linux,idea,vscode&theme=dark&perline=7" />
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,vue,js,html,css,git,github,idea&theme=dark&perline=7" />
   </a>
 </p>
 
@@ -46,7 +46,7 @@
 <hr/>
 <br/>
 
-<!-- 核心实战模块 (深度展开) -->
+<!-- 核心实战模块 -->
 <h3 align="center">🚀 核心实战</h3>
 <br/>
 
@@ -88,17 +88,13 @@
 <h3 align="center">🧠 算法修炼</h3>
 <p align="center">
   <!-- 替换 user= 后面的名字为你真实的 LeetCode 用户名 -->
-  <a href="https://leetcode.cn/u/baozha2023/">
+  <a href="https://leetcode.cn/u/ren-zhen-xiang-de-ming-zi/">
     <img src="https://leetcard.jacoblin.cool/baozha2023?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
   </a>
 </p>
 
 <br/>
 
-<!-- 动态访客徽章 -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=baozha2023&label=访客总数&color=0e75b6&style=flat" alt="Visitor Count" />
-</p>
 
 <!-- 动态波浪尾部收尾 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
