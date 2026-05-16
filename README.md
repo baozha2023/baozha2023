@@ -12,7 +12,7 @@
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td width="80%" valign="top">
-      <h3>👨‍💻 核心档案</h3>
+      <h3>核心档案</h3>
       <ul>
         <li>🎓 <b>坐标:</b> 北方工业大学 CS 创新实验班 (大三在读)</li>
         <li>💻 <b>引擎:</b> 专注 Java 微服务架构、前后端全栈开发与高并发处理</li>
@@ -30,7 +30,7 @@
 <br><br>
 
 <!-- 技术军火库模块 -->
-<h3 align="center">🛠️ 技术军火库</h3>
+<h3 align="center">技术军火库</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,linux,docker&theme=dark" />
@@ -42,11 +42,11 @@
 <br><br>
 
 <!-- 核心实战模块 -->
-<h3 align="center">🚀 核心实战</h3>
+<h3 align="center">核心实战</h3>
 <br>
 
 <details>
-  <summary><b>⚡ 温州市电网沿海骨干输电线路风灾检测及评估系统</b></summary>
+  <summary><b>温州市电网沿海骨干输电线路风灾检测及评估系统</b></summary>
   <br>
   <ul>
     <li><b>底层架构：</b> 自主攻克基于 MQTT 协议与 Redis 的高并发数据采集与鉴权瓶颈，保障海量传感器数据的实时吞吐。</li>
@@ -56,7 +56,7 @@
 </details>
 
 <details>
-  <summary><b>🏢 消防检测系统</b></summary>
+  <summary><b>消防检测系统</b></summary>
   <br>
   <ul>
     <li><b>业务架构：</b> 独立负责系统全生命周期研发。设计状态驱动架构与 SQL 分阶段筛选机制，解决多环节数据隔离与复杂流程流转（如挂单、回退）难题。</li>
@@ -65,7 +65,7 @@
 </details>
 
 <details>
-  <summary><b>🚗 智橙动力微服务后管系统</b></summary>
+  <summary><b>智橙动力微服务后管系统</b></summary>
   <br>
   <ul>
     <li><b>微服务治理：</b> 独立完成设备型号管理与 OTA 升级微服务开发。构建复杂关联数据模型，基于 OpenFeign 实现高效通信，保障经销商数据一致性。</li>
@@ -76,20 +76,20 @@
 <br><br>
 
 <!-- 算法修炼模块 -->
-<h3 align="center">🧠 算法修炼</h3>
+<h3 align="center">算法修炼</h3>
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/ren-zhen-xiang-de-ming-zi?site=cn&theme=dark&font=Fira%20Code&ext=heatmap" width="70%" alt="LeetCode Stats & Heatmap" />
 </p>
 
 <br><br>
 
-<!-- 代码活跃度模块 -->
-<h3 align="center">🐍 代码活跃度</h3>
+<!-- 代码活跃度模块-->
+<h3 align="center">代码活跃度</h3>
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/baozha2023/baozha2023/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/baozha2023/baozha2023/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/baozha2023/baozha2023/output/github-contribution-grid-snake.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/baozha2023/baozha2023/output/github-contribution-grid-pacman-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/baozha2023/baozha2023/output/github-contribution-grid-pacman.svg">
+    <img alt="github contribution grid pacman animation" src="https://raw.githubusercontent.com/baozha2023/baozha2023/output/github-contribution-grid-pacman.svg" width="100%">
   </picture>
 </p>
 
