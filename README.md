@@ -87,9 +87,9 @@
 <h3 align="center">🟡 代码活跃度</h3>
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/baozha2023/baozha2023/output/pacman-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/baozha2023/baozha2023/output/pacman.svg">
-    <img alt="github contribution grid pacman animation" src="https://raw.githubusercontent.com/baozha2023/baozha2023/output/pacman.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/baozha2023/baozha2023/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/baozha2023/baozha2023/output/pacman-contribution-graph.svg">
+    <img alt="github contribution grid pacman animation" src="https://raw.githubusercontent.com/baozha2023/baozha2023/output/pacman-contribution-graph.svg" width="100%">
   </picture>
 </p>
 
