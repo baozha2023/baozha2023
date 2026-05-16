@@ -8,7 +8,7 @@
 
 <br><br>
 
-<!-- 核心档案模块 (优化了左右列宽比例为 80:20，确保单行展示) -->
+<!-- 核心档案模块 -->
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td width="80%" valign="top">
@@ -18,12 +18,10 @@
         <li>💻 <b>引擎:</b> 专注 Java 微服务架构、前后端全栈开发与高并发处理</li>
         <li>🤖 <b>外挂:</b> 深度拥抱 AI，熟练运用 Claude / LangChain / ComfyUI 赋能工作流</li>
         <li>🏆 <b>荣誉:</b> CCF CSP 280分 (Top 6.29%)、蓝桥杯国赛二等奖、天梯赛国二</li>
-        <li>🏃‍♂️ <b>日常:</b> 马拉松跑者，用脚步丈量世界，用长跑磨砺心智与抗压能力</li>
         <li>📫 <b>信箱:</b> <code>a17238716972022@163.com</code></li>
       </ul>
     </td>
     <td width="20%" align="center" valign="center">
-      <!-- 适当缩小图片尺寸，为左侧文字让出空间 -->
       <img src="https://cdn.jsdelivr.net/gh/TheDudeThatCode/TheDudeThatCode/Assets/Developer.gif" width="150px" />
     </td>
   </tr>
@@ -43,7 +41,7 @@
 
 <br><br>
 
-<!-- 核心实战模块 (已根据简历深度重构) -->
+<!-- 核心实战模块 -->
 <h3 align="center">🚀 核心实战</h3>
 <br>
 
