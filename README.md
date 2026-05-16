@@ -3,7 +3,6 @@
 
 <p align="center">
   <a href="https://github.com/baozha2023">
-    <!-- 更换了更稳定的 herokuapp 域名 -->
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF5&center=true&vCenter=true&width=600&lines=北方工业大学+CS+创新实验班;Java+微服务架构+%26+全栈开发;拥抱+AI+工作流，探索效能边界;用代码构建系统，用长跑磨砺心智" alt="Typing SVG" />
   </a>
 </p>
@@ -51,17 +50,14 @@
 ### 📊 GitHub 动态 (Stats & Activity)
 
 <p align="center">
-  <!-- 增加了 cache_seconds=86400 缓解 GitHub API 限制导致的裂图 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=baozha2023&show_icons=true&theme=radical&cache_seconds=86400" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baozha2023&layout=compact&theme=radical&cache_seconds=86400" alt="Top Languages" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=baozha2023&theme=radical&locale=zh_CN" alt="GitHub Streak" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=baozha2023&theme=radical" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <b>🔥 我的代码贡献热力图 (Contribution Snake)</b><br/>
-  <!-- 贪吃蛇动态热力图占位符 -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/baozha2023/baozha2023/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/baozha2023/baozha2023/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/baozha2023/baozha2023/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/baozha2023/baozha2023/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
 </p>
