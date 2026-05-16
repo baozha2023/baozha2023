@@ -8,101 +8,97 @@
   </a>
 </p>
 
----
+<br/>
 
-<!-- 左右分栏布局：动态 GIF + 个人介绍 -->
+<!-- 核心档案模块 -->
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td width="65%" valign="top">
-      <h3>👨‍💻 核心档案 (Profile)</h3>
+      <h3>👨‍💻 核心档案</h3>
       <ul>
-        <li>🎓 <b>坐标:</b> 北方工业大学 CS 创新实验班 (大三)</li>
-        <li>💻 <b>引擎:</b> Java 微服务架构 / 前后端全栈 / 高并发处理</li>
-        <li>🤖 <b>外挂:</b> Claude / LangChain / ComfyUI 深度赋能开发</li>
-        <li>🏃‍♂️ <b>日常:</b> 马拉松跑者，用脚步丈量世界，用代码重构现实</li>
+        <li>🎓 <b>坐标:</b> 北方工业大学 CS 创新实验班 (大三在读)</li>
+        <li>💻 <b>引擎:</b> 专注 Java 微服务架构、前后端全栈开发与高并发处理</li>
+        <li>🤖 <b>外挂:</b> 深度拥抱 AI，熟练运用 Claude / LangChain / ComfyUI 赋能工作流</li>
+        <li>🏆 <b>荣誉:</b> CCF CSP 280分 (Top 6.29%)、蓝桥杯国赛二等奖、天梯赛国二</li>
+        <li>🏃‍♂️ <b>日常:</b> 马拉松跑者，用脚步丈量世界，用长跑磨砺心智与抗压能力</li>
         <li>📫 <b>信箱:</b> <code>a17238716972022@163.com</code></li>
       </ul>
     </td>
     <td width="35%" align="center" valign="center">
-      <!-- 动态敲代码的小人 GIF -->
       <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="180px" />
     </td>
   </tr>
 </table>
 
----
+<br/>
+<hr/>
+<br/>
 
-<!-- 炫酷的 Skill-icons 阵列 (比传统徽章更好看，自带玻璃拟物感) -->
-<h3 align="center">🛠️ 技术军火库 (Tech Arsenal)</h3>
+<!-- 技术军火库模块 -->
+<h3 align="center">🛠️ 技术军火库</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,vue,js,html,css,git,github,docker,linux,idea,vscode&theme=dark&perline=7" />
   </a>
 </p>
 
----
+<br/>
+<hr/>
+<br/>
 
-<!-- 游戏化动态奖杯系统 -->
-<h3 align="center">🏆 GitHub 成就 (Trophies)</h3>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=baozha2023&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-  </a>
-</p>
-
----
-
-<!-- 交互式折叠面板展示项目 (告别枯燥的列表) -->
-<h3 align="center">🚀 核心实战 (Featured Projects)</h3>
+<!-- 核心实战模块 (深度展开) -->
+<h3 align="center">🚀 核心实战</h3>
+<br/>
 
 <details>
-  <summary><b>⚡ 温州市电网风灾检测及评估系统 (点击展开)</b></summary>
+  <summary><b>⚡ 温州市电网风灾检测及评估系统</b></summary>
   <br/>
-  <blockquote>
-    独立主导架构与全栈开发，攻克 <b>MQTT + Redis 高并发采集</b>，引入 <b>FFT 算法</b>处理传感器数据，保障电网安全运行。
-  </blockquote>
+  <ul>
+    <li><b>技术栈：</b> Spring Boot, MQTT, Redis, Vue.js, ECharts</li>
+    <li><b>架构与并发：</b> 独立主导系统架构设计与全栈开发。针对海量物联网设备，攻克了基于 MQTT 协议与 Redis 缓存的高并发数据采集难题，保障了数据吞吐的实时性与稳定性。</li>
+    <li><b>算法落地：</b> 引入并工程化落地 FFT（快速傅里叶变换）算法，对传感器采集的复杂波形数据进行频域分析，精准评估风灾对电网铁塔的结构影响。</li>
+  </ul>
 </details>
 
 <details>
-  <summary><b>🏢 消防检测系统 - 全生命周期管理 (点击展开)</b></summary>
+  <summary><b>🏢 消防检测系统 (全生命周期管理)</b></summary>
   <br/>
-  <blockquote>
-    设计状态驱动业务架构，研发文档自动化导出模块，大幅提升企业交付效率与数据流转准确率。
-  </blockquote>
+  <ul>
+    <li><b>技术栈：</b> Java, Spring Boot, MySQL, 自动化文档引擎</li>
+    <li><b>业务架构：</b> 深度参与系统全生命周期开发。针对消防检测流程繁琐、状态易错乱的问题，设计了基于“状态机”驱动的业务架构，使检测流程流转更加清晰可控。</li>
+    <li><b>效能优化：</b> 独立研发了复杂的检测报告自动化导出模块，支持动态模板渲染与海量数据填充，将企业单次交付报告的时间缩短了 80% 以上。</li>
+  </ul>
 </details>
 
 <details>
-  <summary><b>🚗 智橙动力微服务后管系统 (点击展开)</b></summary>
+  <summary><b>🚗 智橙动力微服务后管系统</b></summary>
   <br/>
-  <blockquote>
-    基于 <b>Spring Cloud Alibaba</b> 构建，实现 OTA 升级模块与复杂设备关联数据模型，支撑车联网后台高效运转。
-  </blockquote>
+  <ul>
+    <li><b>技术栈：</b> Spring Cloud Alibaba, Nacos, MyBatis-Plus, Vue3</li>
+    <li><b>微服务实践：</b> 基于 Spring Cloud Alibaba 微服务生态，参与构建高可用的车联网后台管理系统。</li>
+    <li><b>核心模块：</b> 负责核心的 OTA（空中下载技术）升级模块，设计并实现了复杂的“车辆-设备-固件”多对多关联数据模型，保障了车载设备固件升级的事务一致性与分发效率。</li>
+  </ul>
 </details>
 
 <br/>
+<hr/>
+<br/>
 
----
-
-<!-- 统计卡片与贪吃蛇 (去除了边框，融入暗黑/极客主题) -->
-<h3 align="center">📊 数据面板 (Metrics & Activity)</h3>
-
+<!-- LeetCode 算法动态模块 -->
+<h3 align="center">🧠 算法修炼</h3>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=baozha2023&theme=tokyonight&locale=zh_CN&hide_border=true" alt="GitHub Streak" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baozha2023&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" width="48%" />
+  <!-- 替换 user= 后面的名字为你真实的 LeetCode 用户名 -->
+  <a href="https://leetcode.cn/u/baozha2023/">
+    <img src="https://leetcard.jacoblin.cool/baozha2023?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+  </a>
 </p>
 
-<p align="center">
-  <b>🐍 吞噬代码的贪吃蛇 (Contribution Snake)</b><br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/baozha2023/baozha2023/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/baozha2023/baozha2023/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/baozha2023/baozha2023/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
-</p>
+<br/>
 
 <!-- 动态访客徽章 -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=baozha2023&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=baozha2023&label=访客总数&color=0e75b6&style=flat" alt="Visitor Count" />
 </p>
 
-<!-- 动态波浪
+<!-- 动态波浪尾部收尾 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
