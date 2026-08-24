@@ -16,7 +16,7 @@
       <ul>
         <li>🎓 <b>坐标:</b> 北方工业大学 CS 创新实验班 </li>
         <li>💻 <b>引擎:</b> 专注 Java 微服务架构、前后端全栈开发与高并发处理</li>
-        <li>🤖 <b>外挂:</b> 深度拥抱 AI，熟练运用 Claude / LangChain / ComfyUI 赋能工作流</li>
+        <li>🤖 <b>外挂:</b> 深度拥抱 AI，熟练运用 codex /  ComfyUI 赋能工作</li>
         <li>🏆 <b>荣誉:</b> CCF CSP 280分 (Top 6.29%)、蓝桥杯国一、天梯赛国二</li>
         <li>📫 <b>信箱:</b> <code>a17238716972022@163.com</code></li>
       </ul>
